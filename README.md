@@ -63,18 +63,15 @@ The application uses Firebase services for authentication, real-time database op
 
 ## Installation
 
-git clone https://github.com/yourusername/hazir-service-app.git
-
+git clone https://github.com/Pasha806/hazir-service-app.git
 cd hazir-service-app
-
 flutter pub get
-
 flutter run
 
 ## Contact
 For feedback or collaboration opportunities:
 
-📧 Email: hamzapasha806@gmail.com
+📧 Email: hamzapasha806@gmail.com <br>
 💼 LinkedIn: www.linkedin.com/in/hamzaimran806
 
 ## Author
