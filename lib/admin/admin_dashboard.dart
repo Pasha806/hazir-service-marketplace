@@ -1703,7 +1703,7 @@ class _CreateStaffDialogState extends State<_CreateStaffDialog> {
                 controller: _passCtrl,
                 decoration: const InputDecoration(labelText: "Password", border: OutlineInputBorder()),
                 obscureText: true,
-                validator: (v) => v!.length < 6 ? "Min 8 chars" : null,
+                validator: (v) => v!.length < 6 ? "Min 7 chars" : null,
               ),
               const SizedBox(height: 12),
               DropdownButtonFormField<String>(
