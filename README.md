@@ -45,7 +45,8 @@ Provider / setState – State management
 
 </div>
 
-
+## Author
+Developed by Hamza Imran
 
 
 
