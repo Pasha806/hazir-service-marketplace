@@ -62,11 +62,11 @@ Hazir follows a modular mobile-first architecture consisting of:
 The application uses Firebase services for authentication, real-time database operations, notifications, storage, and cloud functions.
 
 ## Installation
-
-git clone https://github.com/Pasha806/hazir-service-app.git
-cd hazir-service-app
-flutter pub get
-flutter run
+Commands
+> git clone https://github.com/Pasha806/hazir-service-app.git <br>
+> cd hazir-service-app <br>
+> flutter pub get <br>
+> flutter run
 
 ## Contact
 For feedback or collaboration opportunities:
