@@ -491,7 +491,7 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen>
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            'We’ll email you a link to reset your password.',
+            'link shared on your email to reset your password.',
             style: TextStyle(color: _muted, fontSize: 14, height: 1.3),
           ),
           const SizedBox(height: 12),
