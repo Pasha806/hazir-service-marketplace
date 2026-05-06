@@ -1,32 +1,34 @@
-## Introduction
+# Hazir - AI Powered Service Marketplace App
 
-Hazir is a cross-platform mobile application developed using Flutter and Firebase, designed to streamline how users book everyday services such as home repairs, pick & drop, and on-site assistance with AI Recommendation System. The app connects seekers and service providers in real time, offering a modern, map-based workflow similar to ride-hailing platforms.
+Hazir is a modern Flutter and Firebase based mobile application that connects customers with verified local service providers in real time. The platform includes AI-powered recommendations, secure booking, live tracking, in-app messaging, and role-based dashboards for seekers and providers.
 
-The system implements core service marketplace functionality including provider onboarding, service listings, live request creation, real-time location tracking, in-app messaging, and order history management. All interactions are powered by Firebase Authentication, Cloud Firestore, Firebase Storage, and Google Maps SDK, ensuring a fast, secure, and scalable experience without the need for a traditional backend server.
+## Features
 
-Developing Hazir strengthened my understanding of state management, real-time databases, geolocation, responsive UI design, and event-driven architecture. It also gave hands-on experience with integrating maps, handling asynchronous data streams, and designing role-based user flows for different types of users.
-
-## Key Features
-
-User registration & role-based login (Seeker / Provider)
-Provider onboarding with service listing management
-Service browsing, search, and detail viewing
-Live service request creation with real-time status updates
-Uber-style real-time location tracking between seeker and provider
-In-app chat for communication during active jobs
-Order / service history for both user roles
-Profile management with image upload
-Status workflows: Waiting → Ongoing → Completed / Cancelled
+- AI-powered service recommendations
+- Real-time provider tracking
+- Secure authentication system
+- Service booking and scheduling
+- In-app messaging and notifications
+- Role-based dashboards
+- Ratings and reviews system
+- Firebase backend integration
+- Google Maps integration
+- Real-time chat system
+- Service provider management
+- Booking history and tracking
 
 ## Technologies Used
 
-Flutter (Dart) – Cross-platform mobile development
-Firebase Authentication – Secure login system
-Cloud Firestore – Real-time database for users, listings, and bookings
-Firebase Storage – Image uploads (profile & listing photos)
-Google Maps SDK – Live tracking, map markers, and routing
-Geolocator API – GPS location access
-Provider / setState – State management
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Firebase Cloud Messaging
+- Google Maps SDK
+- TensorFlow Lite / Firebase ML Kit
+- REST APIs
+- Android Studio
 
 ## Example Screens
 <div align="center">
@@ -44,6 +46,36 @@ Provider / setState – State management
 <img src="https://github.com/user-attachments/assets/e30a963b-ab0d-4049-9e34-5e42e2116bff" width="180"/>
 
 </div>
+
+## System Architecture
+
+Hazir follows a modular mobile-first architecture consisting of:
+
+- Authentication Module
+- Booking & Scheduling Module
+- AI Recommendation Engine
+- Real-Time Tracking Module
+- Messaging & Notification System
+- Secure Payment Integration
+- Provider & Gig Management
+
+The application uses Firebase services for authentication, real-time database operations, notifications, storage, and cloud functions.
+
+## Installation
+
+git clone https://github.com/yourusername/hazir-service-app.git
+
+cd hazir-service-app
+
+flutter pub get
+
+flutter run
+
+## Contact
+For feedback or collaboration opportunities:
+
+📧 Email: hamzapasha806@gmail.com
+💼 LinkedIn: www.linkedin.com/in/hamzaimran806
 
 ## Author
 Developed by Hamza Imran
