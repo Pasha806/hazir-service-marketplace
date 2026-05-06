@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- MAPS / PLACES Android key -->
+    <string name="google_maps_api_key">AIzaSyBzvWeiJ8Jc9nRPBr_8aqLNPkiaSI0u2O0</string>
+</resources>

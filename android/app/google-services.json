@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "739294200651",
+    "project_id": "hazirapp-6bc77",
+    "storage_bucket": "hazirapp-6bc77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739294200651:android:4a982e333a564fdb6e5ece",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739294200651-67vcnrr91otke4eh4meqtj8q1pv5s628.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "80a78e17b7eab035fadf35785cdbca09be917f55"
+          }
+        },
+        {
+          "client_id": "739294200651-amc20qtc7mg1qf5gcc3bqiul3coi65lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe811x2wOUO-VZwv1BmEpE-te-TjI9UtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739294200651-amc20qtc7mg1qf5gcc3bqiul3coi65lo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739294200651-dk7ksufie18iqvtaqi0hu6po96fvknii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projects"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
